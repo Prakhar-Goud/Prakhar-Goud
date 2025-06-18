@@ -1,43 +1,33 @@
-# 👋 Hi there, I’m Prakhar Goud
+# 👋 Hi, I’m Prakhar Goud
 
-**Aspiring Data Analyst** transitioning from a Customer Care background into the world of data analytics.
-
----
-
-## 🌟 About Me
-- Strong foundation in **problem-solving, analytical thinking, and communication**
-- Passionate about leveraging data to **solve real-world problems**, **optimize processes**, and drive **data-driven decisions**
-- Recently certified as a **Data Analyst**, with hands-on experience in data cleaning, visualization, and statistical analysis
+An **aspiring Data Analyst** with a background in customer support and a strong passion for data-driven decision-making. I’m currently transitioning into the field of data analytics and building real-world skills through hands-on projects using Excel, SQL, Python, and Power BI.
 
 ---
 
-## 🔧 Tech Stack & Skills
-- **Data Analysis**: Excel, SQL, Python (Fundamentals)
-- **Visualization**: Power BI, Tableau
-- **Data Workflows**: Data cleaning, transformation, dashboard creation, storytelling
-- **Communication**: Customer-focused problem-solving from previous role
+## 📈 About Me
+
+- Former **Customer Support Executive** with over 2 years of experience at Conneqt and Teleperformance
+- Proficient in **data analysis tools** including Excel, SQL, Python (fundamentals), and Power BI
+- Skilled in **data cleaning, manipulation, and visualization**
+- Strong communication and problem-solving abilities developed from customer-facing roles
+- Passionate about **using data to solve real-world business problems**
 
 ---
 
-## 🧩 Projects
-Here are some of my key projects showcasing my skills in action:
-- **Power BI Project**: Interactive dashboard analyzing sales and customer trends
-- **Excel Project**: Dynamic reports using pivot tables, formulas, and trend analysis
-- **Python Project**: Data cleaning, analysis, and visualization using Pandas & Matplotlib
+## 🔧 Skills
 
-👉 Explore my repositories to see these projects in detail!
+- **Languages & Tools**: Excel | SQL | Python | Power BI 
+- **Analytics**: Data Cleaning | Data Manipulation | Statistical Analysis | Dashboarding
+- **Soft Skills**: Communication | Problem Solving | Business Acumen
 
 ---
 
-## 🚀 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prakhar-goud)
-- 📧 I’m open to collaboration, feedback, and entry-level opportunities in Data Analysis or Business Analytics
+## 🔗 Connect With Me
+
+- 📫 Email: [prakhargoud988@gmail.com](mailto:prakhargoud988@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/prakhar-goud](https://www.linkedin.com/in/prakhar-goud)  
 
 ---
 
-### 📌 Fun Fact
-I thrive on turning raw data into insightful stories—and I’m always learning more to elevate my impact!
+📌 *I’m open to entry-level roles in Data Analytics and Business Intelligence. Always eager to learn, collaborate, and grow in the analytics space!*
 
----
-
-*Thanks for visiting my GitHub profile. Let’s build something meaningful together!*
