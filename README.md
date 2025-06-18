@@ -6,19 +6,21 @@ An **aspiring Data Analyst** with a background in customer support and a strong 
 
 ## 📈 About Me
 
-- Former **Customer Support Executive** with over 2 years of experience at Conneqt and Teleperformance
-- Proficient in **data analysis tools** including Excel, SQL, Python (fundamentals), and Power BI
-- Skilled in **data cleaning, manipulation, and visualization**
+- Former Customer Support Executive with over 2 years of experience at Conneqt and Teleperformance
+- Proficient in data analysis tools including Excel, SQL, Python (fundamentals), and Power BI
+- Skilled in data cleaning, manipulation, and visualization
 - Strong communication and problem-solving abilities developed from customer-facing roles
-- Passionate about **using data to solve real-world business problems**
+- Passionate about using data to solve real-world business problems
 
 ---
 
 ## 🔧 Skills
 
-- **Languages & Tools**: Excel | SQL | Python | Power BI 
-- **Analytics**: Data Cleaning | Data Manipulation | Statistical Analysis | Dashboarding
-- **Soft Skills**: Communication | Problem Solving | Business Acumen
+- Proficient in: Excel, SQL, and Python (Fundamentals)
+- Visualization tools: Power BI
+- Strong understanding of: Statistical analysis and data storytelling
+- Practical experience through: Power BI dashboard project, Excel dynamic reports with pivot tables and Used Python for data cleaning, analysis, and visualization
+- Excellent communication & problem-solving skills, developed through years in customer service roles
 
 ---
 
