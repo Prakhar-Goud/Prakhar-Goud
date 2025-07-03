@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Prakhar Goud
 
-An **aspiring Data Analyst** with a background in customer support and a strong passion for data-driven decision-making. I’m currently transitioning into the field of data analytics and building real-world skills through hands-on projects using Excel, SQL, Python, and Power BI.
+An **aspiring Data Analyst** with a background in customer support and a strong passion for data-driven decision-making. I’m currently transitioning into the field of data analytics and building real-world skills through hands-on projects using Excel, SQL, Python, Tableau, and Power BI.
 
 ---
 
